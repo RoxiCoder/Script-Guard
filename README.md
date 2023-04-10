@@ -1,3 +1,2 @@
 # Script-Guard
-&lt;h1> Script Guard &lt;/h1>
-<h3 style="color:red;">This Is Paid tool</h3>
+<h3 style="color:red;">#f03c15This Is Paid tool</h3>

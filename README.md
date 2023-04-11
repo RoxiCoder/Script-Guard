@@ -24,8 +24,7 @@ Script Guard Is Paid To buy @roxi_coder & @roxi_code
 `1 WEEK 10$`
 
 `1 day 2$`
-#### Is When Tool Active End The Unbypassed Script Stoped ?
-No Your script will Work And Unbypassed Is Added
+
 
 ###
 THE TOOL IS IN BETA REALASE SOON !

@@ -6,9 +6,7 @@ Script Guard Is Paid To buy @roxi_coder & @roxi_code
 
 ## Features
 
-- Anti-Bypass
-- Add Expire to Script
-- Add Id Active to script
+- Anti-Bypass (THE FIRST TOOL TO ADD ANTI-BYPASS TO PYTHON TOOLS TO PROTECT TOOLS FROM BYPASSING)
 
 
 

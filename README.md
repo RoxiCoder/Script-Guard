@@ -17,11 +17,11 @@ Script Guard Is Paid To buy @roxi_coder & @roxi_code
 ## FAQ
 
 #### Tool Price
-`1 MONTH 25$`
+`1 MONTH 15$`
 
-`1 WEEK 10$`
+`1 WEEK 5$`
 
-`1 day 2$`
+`1 day 1$`
 
 
 ###
